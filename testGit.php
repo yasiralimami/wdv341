@@ -7,7 +7,8 @@
 <body>
 
 <?php
-echo "My first PHP script!123";
+echo "My first PHP script!";
+echo "this is my scond update";
 ?>
 
 </body>
