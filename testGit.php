@@ -8,7 +8,8 @@
 
 <?php
 echo "My first PHP script!";
-echo "this is my scond update";
+echo "this is my second update";
+echo "this is my third update";
 ?>
 
 </body>
